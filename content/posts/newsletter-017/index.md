@@ -104,6 +104,31 @@ For full details and a list of breaking changes, see the
 [tetra]: https://github.com/17cupsofcoffee/tetra
 [tetra-changelog]: https://github.com/17cupsofcoffee/tetra/blob/main/CHANGELOG.md
 
+### [Rust Graphics Playground]
+
+![Rust Graphics Playground Demo](rust-graphics-playground.png)
+
+[Rust Graphics Playground] is a small tool that allows you to create and share 
+miniature graphics demos written in Rust that run in the browser. Here are a 
+few examples of what you can make:
+
+- [Spinning Triangle]
+- [Spinning Cube]
+- [Serpinski Triangle]
+- [Serpinski Carpet]
+
+The [source][Playground Source] is available online.
+
+_Discussions:
+[/r/rust](https://www.reddit.com/r/rust/comments/kk6i38/write_mini_graphics_demos_in_rust_in_the_browser/)_
+
+[Rust Graphics Playground]: http://playground.meteorlinker.com
+[Spinning Triangle]: http://playground.meteorlinker.com/?share=1
+[Spinning Cube]: http://playground.meteorlinker.com/?share=864
+[Serpinski Triangle]: http://playground.meteorlinker.com/?share=682
+[Serpinski Carpet]: http://playground.meteorlinker.com/?share=1054
+[Playground Source]: https://gitlab.com/DixieDev/rust-graphics-playground
+
 ## Popular Workgroup Issues in Github
 
 <!-- Up to 10 links to interesting issues -->
